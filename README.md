@@ -2,5 +2,10 @@
 
 This is a Tic Tac Toe game developed in C++
 
-### GAME SCREEN SHOT
-![](TicTacToe_Image.PNG)
+Player 1 -> X
+player 2 -> O
+
+Player 1 Starts the Game
+
+##### GAME SCREEN SHOT
+![](TicTacToe_Image.png)
